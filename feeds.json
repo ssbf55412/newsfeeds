@@ -11,6 +11,16 @@
   },
   {
     "enabled": true,
+    "name": "Darkreading",
+    "url": "https://www.darkreading.com/rss.xml"
+  },
+  {
+    "enabled": true,
+    "name": "Intruder.io",
+    "url": "https://cvemon.intruder.io/rss/cvetrends/latest"
+  },
+  {
+    "enabled": true,
     "name": "Crowdstrike Exposure Management",
     "url": "https://www.crowdstrike.com/en-us/blog/feed"
   }
