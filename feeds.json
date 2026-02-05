@@ -6,6 +6,11 @@
   },
   {
     "enabled": true,
+    "name": "BleepingComputer",
+    "url": "https://www.theregister.com/security/headlines.atom"
+  },
+  {
+    "enabled": true,
     "name": "Crowdstrike Exposure Management",
     "url": "https://www.crowdstrike.com/en-us/blog/feed"
   }
